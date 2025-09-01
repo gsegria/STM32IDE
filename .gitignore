@@ -42,9 +42,9 @@
 
 
 # STM32CubeIDE build output folders
-/Debug/
-/Release/
-/build/
+/demo_myProj/Debug/
+/demo_myProj/Release/
+/demo_myProj/build/
 
 # Object files
 *.o
