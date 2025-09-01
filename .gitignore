@@ -39,3 +39,51 @@
 
 # debug information files
 *.dwo
+
+
+# STM32CubeIDE build output folders
+/Debug/
+/Release/
+/build/
+
+# Object files
+*.o
+*.obj
+
+# Executables and binaries
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+*.list
+
+# Dependency files
+*.d
+
+# Listings and logs
+*.lst
+*.log
+
+# STM32CubeIDE metadata (optional: keep .project, .cproject, .settings if sharing project)
+.metadata/
+*.launch
+
+# Backup / temp files
+*~
+*.swp
+*.bak
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+
+#忽略
+*.log
+*.tmp
+*.bak
+pp.bat
